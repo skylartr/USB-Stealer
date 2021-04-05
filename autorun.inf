@@ -1,0 +1,5 @@
+[autorun] 
+icon=drive.ico
+open=launch.bat
+action=Click ok to Run game for Windows
+shell\open\command=launch.bat
