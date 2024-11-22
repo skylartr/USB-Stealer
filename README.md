@@ -1,6 +1,6 @@
 <p align=center>
   <br>
-  <a href="https://github.com/skylartr/USB-Stealer" target="_blank"><img src="images/usb-stealer-ascii.png"/></a>
+  <a href="https://github.com/skylartr/USB-Stealer/releases" target="_blank"><img src="images/usb-stealer-ascii.png"/></a>
   <br>
   </p>
   
@@ -14,7 +14,7 @@ All files will be copied onto the USB drive into a folder called 'all' <br>
 
 <p align=center>
   <br>
-  <a href="https://github.com/skylartr/USB-Stealer" target="_blank"><img src="https://raw.githubusercontent.com/skylartr/USB-Stealer/refs/heads/main/images/use.gif"/></a>
+  <a href="https://github.com/skylartr/USB-Stealer?tab=readme-ov-file#usage" target="_blank"><img src="https://raw.githubusercontent.com/skylartr/USB-Stealer/refs/heads/main/images/use.gif"/></a>
   </p>
 
   ## Hardware ![usb](/images/usb.png)
