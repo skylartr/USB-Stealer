@@ -22,3 +22,8 @@ I carry this on a generic 32GB USB 2.0 <br>
 Most, if not all, flash drives should work fine <br>
 USB 3.0 formatted to exFAT or NTFS reccomended <br>
 The bigger your target is, the more storage you should have <br>
+
+## Issues
+The usb autorun will not work on most modern Windows releases <br>
+Because this is designed for standard usb and not a BadUSB [which has keyboard emulating capabilities and can launch scripts] <br>
+So you dont need to download autorun.inf, launch.bat, or invisible.vbs <br>
